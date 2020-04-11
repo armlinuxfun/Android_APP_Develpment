@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">embeded soft</string>
+    <string name="company_name">test code</string>
+    <string name="textview_username">user name</string>
+    <string name="textview_password">password</string>
+    <string name="editview_username">enter user name</string>
+    <string name="editview_password">enter password</string>
+    <string name="button_enter">login</string>
+    <string name="textview_tag">v1.0beta</string>
+    <string name="image_logo">company logo</string>
+</resources>

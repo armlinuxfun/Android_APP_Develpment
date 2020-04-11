@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">嵌入式调试软件</string>
+    <string name="company_name">测试代码</string>
+    <string name="textview_username">用户名</string>
+    <string name="textview_password">密码</string>
+    <string name="editview_username">请输入用户名</string>
+    <string name="editview_password">请输入密码</string>
+    <string name="button_enter">登陆</string>
+    <string name="textview_tag">v1.0beta</string>
+    <string name="image_logo">company logo</string>
+</resources>

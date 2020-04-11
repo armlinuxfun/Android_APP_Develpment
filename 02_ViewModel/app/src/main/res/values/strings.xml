@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">02_ViewModel</string>
+    <string name="button_add1">加1</string>
+    <string name="button_add2">加2</string>
+</resources>
